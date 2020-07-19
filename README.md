@@ -1,4 +1,8 @@
-### Hi there, here are some technologies I think I know decently well
+# Hi there 👋
+
+### Here are some technologies I know
+
+![](https://placehold.it/250x90/009955/fff?text=Skilled)
 - JavaScript/CSS/HTML
 - React, React Hooks
 - Storybook
@@ -8,18 +12,18 @@
 - Mongo, Postgres
 - Mentoring
 
-### Some things I know some, but I'd like to get a bit better at
+![](https://placehold.it/250x90/008888/fff?text=Learning)
 - Typescript
 - Database design
 - Building scalable services
 - K8s, docker, AWS, API Gateway pattern
 - Public speaking
   
-### Some things I've heard of before and want to play with them
-- next.js
-- prisma
-- gatsby
-- terraform
+![](https://placehold.it/250x90/522272/fff?text=Interested)
+- Next.js
+- Prisma
+- Gatsby
+- Terraform
 
 <!--
 **jhyman2/jhyman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
