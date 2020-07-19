@@ -18,6 +18,7 @@
 - Database design
 - Building scalable services
 - K8s, docker, AWS, API Gateway pattern
+- Elasticsearch
 - Public speaking
   
 ![](https://placehold.it/250x90/522272/fff?text=Interested)
