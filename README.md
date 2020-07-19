@@ -10,6 +10,7 @@
 - Tailwind
 - REST, Websockets, GraphQL (Apollo)
 - Mongo, Postgres
+- Node, Express
 - Mentoring
 
 ![](https://placehold.it/250x90/008888/fff?text=Learning)
